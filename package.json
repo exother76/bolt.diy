@@ -184,6 +184,7 @@
     "pnpm": "^9.14.4",
     "prettier": "^3.4.1",
     "rimraf": "^4.4.1",
+    "sass": "^1.86.0",
     "sass-embedded": "^1.81.0",
     "typescript": "^5.7.2",
     "unified": "^11.0.5",
